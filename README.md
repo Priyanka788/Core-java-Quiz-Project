@@ -1,4 +1,4 @@
-Core-java-Quiz-Project
+Core-Java-Quiz-Project
 
 6 weeks training project
 
